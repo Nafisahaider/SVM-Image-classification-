@@ -4,12 +4,11 @@
 This project is focused on building a machine learning model to classify images of cats and dogs using deep learning techniques. The Jupyter Notebook Cat_Dog.ipynb contains the necessary code for data preprocessing, model training, evaluation, and predictions.
 
 ## Features
-
 Dataset loading and preprocessing
 
 Data augmentation for improved model generalization
 
-Convolutional Neural Network (CNN) implementation using TensorFlow/Keras
+Support Vector Machine (SVM) implementation for classification
 
 Model evaluation and accuracy measurement
 
@@ -18,8 +17,7 @@ Prediction on new images
 ## Requirements
 
 To run this project, install the following dependencies:
-
-pip install tensorflow keras numpy pandas matplotlib
+pip install numpy pandas matplotlib scikit-learn
 
 ## Usage
 
